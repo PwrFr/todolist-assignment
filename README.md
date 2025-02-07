@@ -1,6 +1,6 @@
 # Todo App
 
-<img width="1702" alt="Screenshot 2568-02-08 at 00 02 25" src="https://github.com/user-attachments/assets/f066f481-d10a-41ac-8077-dbe71465f7af" />
+<img width="1695" alt="Screenshot 2568-02-08 at 00 06 28" src="https://github.com/user-attachments/assets/d144fb16-6dd7-4bbf-b503-87800ea85e88" />
 
 ## Currently, Check:
  1. Add Tasks
